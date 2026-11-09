@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.jpg" alt="Banner" width="80%" height="280">
+</p>
 
-<!--
-**Magma-nld/Magma-nld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello i'm <a href="https://github.com/Magma-nld">Magmaツ </a>!</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Magma-nld">
+    <img src="./icon.png" alt="Magmaツ" width="100">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">WELCOME:3333</h2>
+<p align="center">I'm a backend developer and a game developer</p>
+
+<h2 align="left">🔥 About Me</h2>
+<p align="left"><strong>Game Developer:</strong> using <img src="./Csharp.png" width="25"> to make games</p>
+<p align="left"><strong>Backend Developer:</strong> using <img src="./Java.png" width="25"> to dev</p>
+<p align="left"><strong>Bonus:</strong> currently learning <img src="./html.png" width="25"> HTML, <img src="./CSS.png" width="25"> CSS and <img src="./javaScript.png" width="25"> JavaScript</p>
+
+<h2 align="left">🧰 Tools</h2>
+<p align="left"><img src="./Unity.png" width="40"></p>
+<p aling="left"><img src="./VScode.png" width="40"></p>
+<p aling="left"><img src="./Netbeans.png" width="40"></p>
+<p aling="left"><img src="./github.png" width="40"></p>
+<p aling="left"><img src="./git.png" width="40"></p>
+<p align="left"><img src="./nodejs.png" width="40"></p>
+
+
+<h2 align="left">📫 Contact Me</h2>
+<p align="left">
+  <strong><a href="https://www.facebook.com/duchuy.124284">|Facebook</a></strong> |
+  <strong><a href="https://discord.gg/2rezesp3">Discord|</a></strong>
+</p>
+<p algin="left">
+  <strong>Email:</strong>huyng2112@gmail.com
+</p>
