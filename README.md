@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Banner" width="80%" height="280">
+  <img src="104923272_p0_master1200.jpg" alt="Banner" width="80%" height="280">
 </p>
 
 <h1 align="center">Hello i'm <a href="https://github.com/Magma-nld">Magmaツ </a>!</h1>
